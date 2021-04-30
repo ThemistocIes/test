@@ -10,5 +10,6 @@ public class Tree {
         String s1 = bufferedReader.readLine();
 
         System.out.println("Something");
+        System.out.println("Something");
     }
 }
