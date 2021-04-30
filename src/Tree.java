@@ -9,5 +9,6 @@ public class Tree {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String s1 = bufferedReader.readLine();
 
+        System.out.println("Something");
     }
 }
